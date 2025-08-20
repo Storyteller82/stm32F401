@@ -1,0 +1,6 @@
+../Core/Src/My_code_401CCU.c:31:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/My_code_401CCU.c:49:6:HAL_SPI_RxCpltCallback	1
+../Core/Src/My_code_401CCU.c:57:6:HAL_SPI_TxCpltCallback	1
+../Core/Src/My_code_401CCU.c:65:6:LED_OFF	3
+../Core/Src/My_code_401CCU.c:77:6:LED_ON	1
+../Core/Src/My_code_401CCU.c:87:6:Update_LED	8
