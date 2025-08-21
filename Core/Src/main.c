@@ -114,8 +114,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  Counter = xRx;
-
 	  static uint32_t Timer = 0;
 
 	  if ((HAL_GetTick() - Timer) > 1)
